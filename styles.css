@@ -124,7 +124,7 @@ input {
 
 input:focus {
     outline: none;
-    border-color: #8a71ec;
+    border-color: red;
     background-color: #e6e8ec;
 }
 
